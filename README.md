@@ -1,4 +1,4 @@
-# Todo List\
+# Todo List
 A project from Udemy
 <ul>
   <li>下載之後請先npm install安裝node modules</li>
